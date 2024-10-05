@@ -1,0 +1,26 @@
+# Theme settings
+theme: "jekyll-theme-Merlot" # You can change this to another Jekyll theme
+
+# https://pages.github.com/themes/
+# jekyll-theme-Architect
+# jekyll-theme-Cayman
+# jekyll-theme-Dinky
+# jekyll-theme-Hacker
+# jekyll-theme-Leap-day
+# jekyll-theme-Merlot
+# jekyll-theme-Midnight
+# jekyll-theme-Minima
+# jekyll-theme-Minimal
+# jekyll-theme-Modernist
+# jekyll-theme-Slate
+# jekyll-theme-Tactile
+# jekyll-theme-Time machine
+
+
+
+# Markdown processing
+markdown: kramdown
+
+permalink: /:categories/:year/:month/:day/:title/
+
+baseurl: "/Stock-Market-Playbook"
